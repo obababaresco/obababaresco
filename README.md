@@ -1,3 +1,3 @@
-<span style="font-size: 22px;">Hola! soy Oswaldo Terán Babaresco, ingeniero de sistemas y desarrollador<span/>
+<span style="font-size: 22px;">Hola! soy Oswaldo Terán Babaresco, ingeniero de sistemas y desarrollador web<span/>
 <br>
-Soy desarrollador frontend enfocado en javascript y react.
+Me especializo en el front con Angular.
