@@ -1,3 +1,1 @@
-<span style="font-size: 22px;">Hola! soy Oswaldo Terán Babaresco, ingeniero de sistemas y desarrollador web<span/>
-<br>
-Me especializo en el front con Angular.
+<span style="font-size: 22px;">Ingeniero de Sistemas con más de 8 años construyendo aplicaciones web. Mi enfoque actual es integrar la IA como parte real del proceso de ingeniería: trabajo con agentes como Claude Code y Cursor AI para acelerar el desarrollo, y con n8n para automatizar flujos que conectan servicios. Construyo aplicaciones full stack con Next.js, Angular, TypeScript y Supabase, aplicando quality gates de producción (tests automatizados, CI/CD, validación estricta).<span/>
